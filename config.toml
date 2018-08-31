@@ -1,0 +1,102 @@
+baseurl = "https://vub.github.io" # Hostname (and path) to the root.
+title = "Vu's blog" # Site title.
+theme = "coder" # Set the theme.
+languagecode = "en" # The site’s language code used to generate RSS.
+defaultcontentlanguage = "en" # The default content language.
+
+paginate = 20 # Default number of pages per page in pagination.
+canonifyurls = true # Enable to turn relative URLs into absolute.
+
+pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
+pygmentscodefences = true # Enable code fence background highlighting.
+pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
+
+disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
+
+[params] # theme parameters
+    author = "Bui Minh Vu" # Author's name.
+    info = "Full Stack Software Engineer" # Author's job title or info.
+    description = "Vu's personal website" # Site description.
+    keywords = "blog,developer,personal,development" # Site keywords.
+    avatarurl = "images/vu.jpg" # Contain the path of the optionnal avatar in the static folder.
+
+    footercontent = "Life goes on." # Add footer content
+
+    # Whether you want to hide copyright and credits in the footer.
+    hideCredits = false
+    hideCopyright = false
+
+    # Custom CSS
+    custom_css = []
+
+[languages]
+    [languages.en]
+        languagename = "English" # The language name to be displayed in the selector.
+        title = "Bui Minh Vu"
+
+        # You can configure the theme parameter for each language. 
+        [languages.en.params]
+        info = "Full Stack Software Engineer"
+        description = "Bui Minh Vu's personal website"
+        keywords = "blog,developer,personal,development"
+
+        [languages.en.menu] # It is possible to change the menu too.
+
+        [[languages.en.menu.main]]
+        name = "About"
+        weight = 1.0
+        url = "/about/"
+
+        [[languages.en.menu.main]]
+        name = "Blog"
+        weight = 2.0
+        url = "/posts/"
+
+
+    [languages.vi]
+        languagename = "Tiếng Việt"
+        title = "Bùi Minh Vũ"
+
+        [languages.vi.params]
+            info = "Tôi nói gì khi nói về code?"
+            description = "Trang cá nhân của Vũ"
+            keywords = "blog,developer"
+
+        [languages.vi.menu]
+
+            [[languages.vi.menu.main]]
+            name = "Tôi"
+            weight = 1.0
+            url = "/vi/about/"
+
+            [[languages.vi.menu.main]]
+            name = "Viết"
+            weight = 2.0
+            url = "/vi/posts/"
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/vub/"
+[[params.social]]
+    name = "Gitlab"
+    icon = "fab fa-gitlab fa-2x"
+    weight = 2
+    url = "https://gitlab.com/vub/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 3
+    url = "https://twitter.com/vub/"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
