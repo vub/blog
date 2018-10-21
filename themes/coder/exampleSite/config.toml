@@ -12,7 +12,7 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "vub.github.com"
+disqusShortname = "vub.github.io"
 
 [params]
     author = "John Doe"
