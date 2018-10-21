@@ -64,13 +64,15 @@ Và để có được năng lực và tiềm năng phù hợp với điều mà
 Mình có biết một bạn đi thực tập từ năm nhất ( đây là trường hợp đi thực tập sớm nhất mà mình biết ). Mình hỏi bạn làm sao bạn có thể tự tin mà đi thực tập sớm như vậy? Bạn có ai hướng dẫn hay không?.
 Bạn trả lời là không ai hướng dẫn và không có người nhà làm trong ngành này. Nhưng hồi cấp 3 bạn học khá tốt về thuật toán, và bạn biết rằng các công ty cũng chỉ yêu cầu như vậy đối với vị trí thực tập. Và thế là đi thực tập thôi.
 Bằng sự khởi đầu và nhận thức tốt ấy cùng với sự thích thú làm việc chăm chỉ của mình, sau một năm bạn ấy đã có thể làm việc giống như một nhân viên chính thức về mảng của mình.
-Thật là một tấm gương sáng phải không. 
+Thật là một tấm gương sáng phải không.
 
 Kinh nghiệm là bạn có thể thực tập partime, làm việc remote, và đến công ty đúng lịch của mình để vừa đảm bảo việc học trên trường vừa làm tốt việc được giao. Quan trọng là bạn cần có một thái độ làm việc tốt thì dù bạn có biết nhiều hay ít, mọi người sẽ giúp đỡ bạn.
 
 Bạn có thể tìm kiếm cơ hội ở các trang web tuyển dụng, follow các công ty trên itviec, linkedin, hỏi thăm bạn bè, nhờ thầy cô giới thiệu, tham gia các event do các công ty tổ chức, chủ động gửi CV cho các công ty mình thấy hứng thú… và hãy đảm bảo rằng mình luôn sẵng sàng cho cơ hội.
 
 **Một số resource tốt để tìm hiểu:**
+
+[Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
 
 English: có rất nhiều tài liệu ở trên mạng, và mình khuyên bạn nên học [IELTS](https://www.ielts.org/) để có thể tiến xa trong ngành này.
 
