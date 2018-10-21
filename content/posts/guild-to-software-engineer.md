@@ -40,7 +40,7 @@ Một số câu hỏi tốt mà bạn có thể đặt ra như:
 - Mình thích công ty nào, công ty ấy yêu cầu những gì?
 - Những môn học ở trường sẽ giúp ích gì cho mình để đạt được mục tiêu?
 - Kết quả đại học sẽ có ý nghĩa như thế nào?
-- Bây giờ mình cần làm gì?
+- Bây giờ mình cần đặt những mục tiêu nào và thực hiên như thế nào?
 - Đâu là những nguồn tài liệu tốt?
 - Những kĩ năng nào là cần thiết?
 - …
@@ -51,7 +51,7 @@ Dù bạn có làm gì chăng nữa: đi làm ở công ty lớn nhỏ, tự t�
 Và để có được năng lực và tiềm năng phù hợp với điều mà bạn muốn hướng đến, *sự chuẩn bị* là yếu tố rất cần thiết.
 
 *Don’t break the chain:*
-Đó là một chặng đường dài và đầy hấp dẫn và xứng đáng. Khi bạn thấy được điều đó, bạn sẽ làm việc, học tập mỗi ngày mà không hề thấy chán.
+Đó là một chặng đường dài, đầy hấp dẫn và xứng đáng. Khi bạn thấy được điều đó, bạn sẽ làm việc, học tập mỗi ngày mà không hề thấy chán.
 
 [Tạo một thói quen tốt mới trong 30 ngày](https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days?language=vi)
 
